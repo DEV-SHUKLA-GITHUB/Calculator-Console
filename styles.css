@@ -1,0 +1,12 @@
+div{
+    border:2px solid black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin:5% 20% 0 20%;
+    background-color: rgb(25, 151, 183);
+    border-radius: 5%;
+}
+h1{
+    text-align: center;
+}
